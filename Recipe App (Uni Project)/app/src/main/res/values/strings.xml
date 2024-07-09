@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PlatePlanner(Assessment)</string>
+
+    <string name="splash_screen">Splash Screen</string>
+
+    <string name="recipes"><font color='#000000'><b>Recipes</b></font></string>
+    <string name="weeklyList"><font color='#000000'><b>Weekly\nList</b></font></string>
+    <string name="households"><font color='#000000'><b>Households</b></font></string>
+    <string name="shoppingList"><font color='#000000'><b>Shopping\nList</b></font></string>
+
+    <string name="FoodImage">Image Of Food</string>
+
+    <string name="title"><font color='#000000'><b>Todays Meal:</b></font></string>
+    <string name="mealName"><font color='#000000'>Pasta</font></string>
+    <string name="prepTitle"><font color='#000000'><b>Prep Time:</b></font></string>
+    <string name="time"><font color='#000000'>30 mins</font></string>
+
+
+</resources>
